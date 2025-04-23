@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost_1521_xe.BaseDeDatos"
+  DTS:DTSID="{9C9D8885-45C8-42DC-956C-E35977EF79B9}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=localhost:1521/xe;User ID=BaseDeDatos;Provider=OraOLEDB.Oracle.1;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhh/GnLXDUky1oT2s1FiN/wAAAAACAAAAAAAQZgAAAAEAACAAAAAEdk7Xb4geQg3d/MEKfD9hTYHIKErcpPF7clSgP163ggAAAAAOgAAAAAIAACAAAADrGugUD3JYAFFooYicEamwQchGIiTdnF/RaX7X6Ydch4AAAABDiI4EjEKlXSJBtRBIvYjwnKgcmHwmt225gWA+C/pmJoozqRTRr2GRCj5o9wYotd05tstnMUS8YF6kuSYzoK94x89odrVtdv/xBTvkW4VcnY9ONWg+Fs6qmBFoI6ZB8e4GsKJcYV+w1Iyv9TzbYUXjuBfrGo0X3iEeRUoesuVOiUAAAAB0nICpiGHFdv0XfdBUOTw+2FGvpE+OoGtlDtJjkbbq8L2wFHb8P2ZiqTsBBBIzliGKxlEuH5UYVtQhxgZIyLQY</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

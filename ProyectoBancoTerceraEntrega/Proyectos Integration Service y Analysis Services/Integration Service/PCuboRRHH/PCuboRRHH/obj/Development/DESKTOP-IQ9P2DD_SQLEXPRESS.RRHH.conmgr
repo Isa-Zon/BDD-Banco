@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-IQ9P2DD_SQLEXPRESS.RRHH"
+  DTS:DTSID="{CE87E4BA-53F1-41BA-9905-4D2B8DD20E89}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-IQ9P2DD\SQLEXPRESS;Initial Catalog=RRHH;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-PCuboRRHH-{CE87E4BA-53F1-41BA-9905-4D2B8DD20E89}DESKTOP-IQ9P2DD\SQLEXPRESS.RRHH;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
